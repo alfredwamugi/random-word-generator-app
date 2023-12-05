@@ -1,10 +1,11 @@
 # random_word_generator_app
 
-A new Flutter project.
+My First Flutter project.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+It is a simple application that generates random words at the click of a button, one can like ❤️ certain words which will be saved on a favourites page.
+This project was a starting point for a Flutter application journey.
 
 A few resources to get you started if this is your first Flutter project:
 
